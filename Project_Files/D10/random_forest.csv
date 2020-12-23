@@ -1,0 +1,50 @@
+,Coefficient Estimate
+Latitude,0.085215001
+Longitude,0.102277368
+Accommodates,0.280778407
+Availability_365,0.045054875
+Has_availability,0
+Reviews_per_month,0.04704072
+Calculated_host_listings_count,0.022844074
+Instant_bookable,0.008144848
+Bedrooms,0.024556617
+Beds,0.016114337
+Bathrooms,0.032029192
+Number_of_reviews,0.038176792
+Number_of_reviews_l30d,0.003751669
+Review_scores_rating,0.023751103
+Review_scores_accuracy,0.005176547
+Review_scores_checkin,0.006108492
+Review_scores_cleanliness,0.008693314
+Review_scores_communication,0.004514673
+Review_scores_location,0.011968903
+Review_scores_value,0.009246581
+Amenity_Count,0.063930058
+Room_type_Entire home/apt,0.054711258
+Room_type_Hotel room,0.000713504
+Room_type_Private room,0.043969098
+Room_type_Shared room,0.001326259
+Bathrooms_type_private bath(s),0.002992182
+Bathrooms_type_shared bath(s),0.004183695
+Neighbourhood_cleansed_Bijlmer-Centrum,0.00038333
+Neighbourhood_cleansed_Bijlmer-Oost,0.000179169
+Neighbourhood_cleansed_Bos en Lommer,0.001226124
+Neighbourhood_cleansed_Buitenveldert - Zuidas,0.000615826
+Neighbourhood_cleansed_Centrum-Oost,0.008984565
+Neighbourhood_cleansed_Centrum-West,0.020990131
+Neighbourhood_cleansed_De Aker - Nieuw Sloten,0.000299796
+Neighbourhood_cleansed_De Baarsjes - Oud-West,0.002569397
+Neighbourhood_cleansed_De Pijp - Rivierenbuurt,0.002558023
+Neighbourhood_cleansed_Gaasperdam - Driemond,0.000380079
+Neighbourhood_cleansed_Geuzenveld - Slotermeer,0.000614879
+Neighbourhood_cleansed_IJburg - Zeeburgereiland,0.000430881
+Neighbourhood_cleansed_Noord-Oost,0.000582335
+Neighbourhood_cleansed_Noord-West,0.000666862
+Neighbourhood_cleansed_Oostelijk Havengebied - Indische Buurt,0.001112796
+Neighbourhood_cleansed_Osdorp,0.000309043
+Neighbourhood_cleansed_Oud-Noord,0.001476817
+Neighbourhood_cleansed_Oud-Oost,0.001742701
+Neighbourhood_cleansed_Slotervaart,0.000994083
+Neighbourhood_cleansed_Watergraafsmeer,0.001397098
+Neighbourhood_cleansed_Westerpark,0.001799336
+Neighbourhood_cleansed_Zuid,0.003417162
