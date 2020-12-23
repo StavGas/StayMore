@@ -14,7 +14,7 @@ Instruction to run the project: <br> <br>
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads 18.7.1 <br>
 https://powerbi.microsoft.com/en-us/ <br>
 
-2) Restore the database from D06 "air2-2012version.bak" into MS SQL Server. <br>
+2) Restore the database from the link " https://drive.google.com/drive/folders/1riv1iq9LAfpQzppHOx3US5IIpZVxOulO?usp=sharingD06 " "air2-2012version.bak" into MS SQL Server. <br>
 Next, run the scripts from the path  D06/Scripts/ according to the pdf file "BuildingAndDiagrams". <br>
 
 3) Run the Query "ML_Data.sql" from the folder D08 to receive the Machine Learning training features. <br>
