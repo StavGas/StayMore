@@ -20,7 +20,7 @@ Next, run the scripts from the path  D06/Scripts/ according to the pdf file "Bui
 3) Run the Query "ML_Data.sql" from the folder D08 to receive the Machine Learning training features. <br>
 4) With Google Colab or python, use the script "StayMore_Machine_Learning.ipynb" to train your model. <br>
 5) Finally, you can load the SQL database and ML tables into the Power BI for Visualizations and Reports <br>
-6) In D09 you can find all the Power BI Visualizations Captured by the team <br> <br>
+6) In D09 " https://drive.google.com/drive/folders/1riv1iq9LAfpQzppHOx3US5IIpZVxOulO?usp=sharingD06 " you can find all the Power BI Visualizations Captured by the team <br> <br>
 
 Deliverables Information: <br> <br>
 D01. Problem and proposed solution overview <br>
