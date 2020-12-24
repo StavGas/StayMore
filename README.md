@@ -24,13 +24,13 @@ Next, run the scripts from the path  D06/Scripts/ according to the pdf file "Bui
 
 Deliverables Information: <br> <br>
 D01. Problem and proposed solution overview <br>
-D02. Analysis of the problems and needs that will be covered with the proposed BI solution <br>
-D03. Team organization, tasks identified and project timeline <br>
-D04. List of development and collaboration tools used <br>
-D05. BI system overview, architecture & system workflow/workflows <br>
-D06. Database diagrams and source code (OLTP, Staging, DW, DMs) <br>
-D07. Data flow diagram/diagrams & transformations explanations <br>
-D08. Code files used for data processing <br>
-D09. Data Visualization platform’s (e.g. from Power BI) files, relevant screenshots and description of functionality and intended usage and purpose (see also paragraph 7) <br>
-D10.A description and presentation of the analytics along with the source code and other necessary files <br>
-D11. Project Evaluation, advantages, limitations and suggestions for future steps <br>
+D02. Analysis of the problems and needs that will be covered with the proposed BI solution. <br>
+D03. Team organization, tasks identified and project timeline. <br>
+D04. List of development and collaboration tools used. <br>
+D05. BI system overview, architecture & system workflow/workflows. <br>
+D06. Database diagrams and source code (OLTP, Staging, DW, DMs). <br>
+D07. Data flow diagram/diagrams & transformations explanations. <br>
+D08. Code files used for data processing. <br>
+D09. Data Visualization platform’s (e.g. from Power BI) files, relevant screenshots and description of functionality and intended usage and purpose. <br>
+D10.A description and presentation of the analytics along with the source code and other necessary files. <br>
+D11. Project Evaluation, advantages, limitations and suggestions for future steps. <br>
